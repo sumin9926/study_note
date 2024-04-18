@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "8d809a83eb3ba62d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8a10756de3c8c09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1fd2443612f7fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git&github/github 사용법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e623da8afaa1d073",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1fca0cfdc199d86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1ebf77f782db4ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cb0fe7c02c200f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4d1df75b57b3c30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "195a41bcb5f0030e",
+    "type": "split",
+    "children": [
+      {
+        "id": "842b95ad0b49240b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12328a326f97b8e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git&github/github 사용법.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03d32b11a84b33c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git&github/github 사용법.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52c861d150c1a8f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "571a02913a6e3291",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git&github/github 사용법.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "a1fd2443612f7fe4",
+  "lastOpenFiles": [
+    "JAVA_문법/BufferedReader.md",
+    "JAVA_문법/StringBuffer (문자열 추가, 변경을 위한 자료형).md",
+    "JAVA_문법/StringBuilder.md",
+    "JAVA_문법/ArrayList.md",
+    "JAVA_문법/배열.md",
+    "JAVA_문법/문자열을 char타입으로 변환하기 (charAt()).md",
+    "JAVA_문법/기본형 vs 참조형.md",
+    "자료구조/LinkedHashSet.md",
+    "README.md",
+    "JAVA_문법/입출력.md"
+  ]
+}

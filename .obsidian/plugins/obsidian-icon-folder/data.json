@@ -1,0 +1,59 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBookOpen",
+      "SiGit",
+      "LiImages",
+      "LiRocket",
+      "LiRabbit"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "이산수학": {
+    "iconName": "LiSprout",
+    "iconColor": "#88d100"
+  },
+  "JAVA_문법": {
+    "iconName": "LiBird",
+    "iconColor": "#198de6"
+  },
+  "자료구조": {
+    "iconName": "LiRabbit",
+    "iconColor": "#ff707e"
+  },
+  "JAVA_알고리즘": {
+    "iconName": "LiRocket",
+    "iconColor": "#ffe01a"
+  },
+  "이미지 모음": {
+    "iconName": "LiImages",
+    "iconColor": "#318c86"
+  },
+  "git&github": {
+    "iconName": "SiGit",
+    "iconColor": "#f66809"
+  },
+  "README.md": "LiBookOpen"
+}
