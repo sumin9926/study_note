@@ -1,6 +1,8 @@
 # study_note
 what I Learned today
 
+#### Spring
+* [[스프링이란]]
 #### JAVA
 + [[기본형 vs 참조형]]
 + [[문자열을 char타입으로 변환하기 (charAt())]]
@@ -10,6 +12,7 @@ what I Learned today
 	+ [[BufferedReader]]
 	+ [[StringBuilder]]
 	+ [[StringBuffer (문자열 추가, 변경을 위한 자료형)]]
+* [[날짜 출력(Date, SimpleDateFormat, format( ))]]
 
 #### Algorithm
 + [[결정 알고리즘]]
